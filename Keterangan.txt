@@ -1,0 +1,12 @@
+Keterangan:
+
+Nama: Nihdatul Himmah
+NIM: 19.01.53.0033
+
+0033 = 33
+33 mod 6 = 3 (Sensor Magnetic)
+
+Dalam source code, yang dimaksud Sensor Magnetic yaitu nMagno dengan TYPE_MAGNETIC_FIELD!
+
+Note:
+Pada saat akan screenshots running program, aplikasi Android Studio mengalami error dan membuat laptop saya 'blank' (Not Responding) Pak.
